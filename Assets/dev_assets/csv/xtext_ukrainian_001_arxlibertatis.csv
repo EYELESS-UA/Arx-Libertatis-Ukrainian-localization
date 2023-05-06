@@ -1,0 +1,96 @@
+﻿"system_today","today","Сьогодні"
+"system_yesterday","yesterday","вчора"
+"system_monday","monday","Понеділок"
+"system_tuesday","tuesday","Вівторок"
+"system_wednesday","wednesday","Середа"
+"system_thursday","thursday","Четвер"
+"system_friday","friday","П'ятниця"
+"system_saturday","saturday","Субота"
+"system_sunday","sunday","Неділя"
+"system_january","january","січня"
+"system_february","february","Лютий"
+"system_march","march","березень"
+"system_april","april","квітень"
+"system_may","may","Травень"
+"system_june","june","червень"
+"system_july","july","липень"
+"system_august","august","серпень"
+"system_september","september","Вересень"
+"system_october","october","жовтень"
+"system_november","november","Листопад"
+"system_december","december","Грудень"
+"system_menus_options_localization","Language settings","Налаштування мови"
+"system_menus_options_render","Render settings","Параметри рендеринга"
+"system_menus_options_interface","Interface settings","Налаштування інтерфейсу"
+"system_menus_options_video_resolution_desktop","Desktop","Робочий стіл"
+"system_menus_options_videos_minimize_on_focus_lost","Minimize on focus loss",
+"system_menus_options_video_vsync","VSync",
+"system_menus_options_video_vsync_off","Disabled","Вимкнено"
+"system_menus_options_video_vsync_on","Enabled","Увімкнено"
+"system_menus_options_video_vsync_auto","Adaptive",
+"system_menus_options_video_fps_limit","FPS Limit",
+"system_menus_options_video_fps_limit_off","Disabled","Вимкнено"
+"system_menus_options_video_fps_limit_display","Display","Дисплей"
+"system_menus_options_video_fov","Field of view",
+"system_menus_options_videos_view_bobbing","View bobbing",
+"system_menus_options_videos_screen_shake","Screen shake (quakes)",
+"system_menus_options_video_renderer","Renderer","Рендерер"
+"system_menus_options_video_colorkey_antialiasing","Color Key AA",
+"system_menus_options_video_alpha_cutout_antialising","Alpha Cutout AA",
+"system_menus_options_video_alpha_cutout_antialising_off","Вимкнено",
+"system_menus_options_video_alpha_cutout_antialising_fuzzy","Fuzzy",
+"system_menus_options_video_alpha_cutout_antialising_crisp","Crisp",
+"system_menus_options_video_texture_filter_anisotropic","Anisotropic filtering",
+"system_menus_options_video_filter_anisotropic_off","Disabled","Вимкнено"
+"system_menus_options_video_filter_anisotropic_max","Unlimited",
+"system_menus_options_video_crosshair","Cross hair cursor",
+"system_menus_options_interface_limit_speech_width","Limit speech text width",
+"system_menus_options_interface_cinematic_widescreen_mode","Cinematics mode",
+"system_menus_options_interface_letterbox","Letterbox",
+"system_menus_options_interface_hard_edges","Hard Edges",
+"system_menus_options_interface_fade_edges","Fade Edges",
+"system_menus_options_interface_hud_scale","HUD size",
+"system_menus_options_interface_hud_scale_integer","Round HUD scale factor",
+"system_menus_options_interface_book_scale","Player book size",
+"system_menus_options_interface_book_scale_integer","Round book scale factor",
+"system_menus_options_interface_cursor_scale","Cursor size",
+"system_menus_options_interface_cursor_scale_integer","Round cursor scale factor",
+"system_menus_options_interface_scale_filter","Scale filter",
+"system_menus_options_video_filter_nearest","Nearest",
+"system_menus_options_video_filter_bilinear","Bilinear",
+"system_menus_options_interface_font_size","Font size",
+"system_menus_options_interface_font_weight","Font weight",
+"system_menus_options_interface_font_weight_0","Thin",
+"system_menus_options_interface_font_weight_1","Light",
+"system_menus_options_interface_font_weight_2","Normal",
+"system_menus_options_interface_font_weight_3","Medium",
+"system_menus_options_interface_font_weight_4","Bold",
+"system_menus_options_interface_font_weight_5","Heavy",
+"system_menus_options_audio_device","Device",
+"system_menus_options_audio_mute_on_focus_lost","Mute when not focused",
+"system_menus_options_audio_eax","EAX",
+"system_menus_options_audio_hrtf","Virtual surround",
+"system_menus_options_auto_ready_weapon_off","Disabled","Вимкнено"
+"system_menus_options_auto_ready_weapon_enemies","Enemies",
+"system_menus_options_auto_ready_weapon_always","Always",
+"system_menus_options_input_mouse_acceleration","Mouse acceleration",
+"system_menus_options_raw_mouse_input","Raw mouse input",
+"system_menus_options_misc_quicksave_slots","Quicksave slots",
+"system_menus_border_turning","Border turning",
+"system_menus_alt_rune_recognition","Improved rune recognition",
+"system_menus_alt_bow_aim","Improved bow aim",
+"system_menus_quick_level_transition","Quick level transition",
+"system_menus_quick_level_transition_off","Disabled","Вимкнено"
+"system_menus_quick_level_transition_jump","Jump",
+"system_menus_quick_level_transition_immediate","Immediate",
+"system_menus_options_input_customize_controls_minimap","Minimap","Мінікарта"
+"system_menus_options_input_customize_controls_debug","Debug view",
+"system_menus_options_input_customize_controls_drink_potion_cure","Antidote potion",
+"system_menus_options_input_customize_controls_toggle_fullscreen","Toggle fullscreen",
+"system_menus_options_input_customize_controls_console","Script console",
+"system_menus_main_quickloadsave","Quicksave",
+"system_menus_options_video_antialiasing","Antialiasing","Згладжування"
+"system_menus_options_audio","Audio settings","Налаштування звуку"
+"system_menus_options_input_customize_controls_weapon","Combat mode","Бойовий режим"
+"system_menus_options_input_mouse_look_toggle","Mouselook toggle mode",
+"system_engine_out_of_bounds_items","Found out of bounds items and dropped them in front of the player.",
