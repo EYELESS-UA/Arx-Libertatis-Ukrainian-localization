@@ -1,6 +1,13 @@
 # Arx-Fatalis-Ukrainian-localization
-Неофіційний український переклад для гри Arx Libertatis [Arx Fatalis]
-
 ![Alt text](Assets/dev_assets/Arx%20Fatalis.png)
-![Alt text](Assets/dev_assets/2933027852_preview_2931673528_preview_2929969900_preview_rule111-a.png)
-[![Crowdin](https://badges.crowdin.net/arx-fatalis-arx-libertatis/localized.svg)](https://crowdin.com/project/arx-fatalis-arx-libertatis)
+
+###### Це переклад гри Arx Fatalis українською мовою з використанням машинного перекладу (ChatGPT).
+
+> **Увага!**  
+> Для встановлення української мови вам потрібно встановити модифікований рушій [Arx Libertatis](https://arx-libertatis.org).
+
+## Встановлення
+1. Завантажте та встановіть Arx Libertatis.  
+2. Завантажте [архів]() з українською мовою.
+3. Розархівуйте архів у теку з Arx Libertatis.
+4. Відкрийте гру та оберіть мову.
