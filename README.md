@@ -11,3 +11,5 @@
 2. Завантажте [архів](https://github.com/EYELESS-UA/Arx-Libertatis-Ukrainian-localization/releases/tag/v1.0.0) з українською мовою.
 3. Розархівуйте архів у теку з Arx Libertatis.
 4. Відкрийте гру та оберіть мову.
+
+[![alt](https://github.com/EYELESS-UA/EYELESS-UA/blob/main/assets/img/donatello_300x50.png?raw=true)](https://donatello.to/LGamesStudio)
