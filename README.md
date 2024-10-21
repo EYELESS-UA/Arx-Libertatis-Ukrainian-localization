@@ -8,6 +8,6 @@
 
 ## Встановлення
 1. Завантажте та встановіть Arx Libertatis.  
-2. Завантажте [архів]() з українською мовою.
+2. Завантажте [архів](https://github.com/EYELESS-UA/Arx-Libertatis-Ukrainian-localization/releases/tag/v1.0.0) з українською мовою.
 3. Розархівуйте архів у теку з Arx Libertatis.
 4. Відкрийте гру та оберіть мову.
