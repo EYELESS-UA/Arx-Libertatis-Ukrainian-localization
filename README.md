@@ -1,15 +1,76 @@
-# Arx-Fatalis-Ukrainian-localization
-![Alt text](Assets/dev_assets/Arx%20Fatalis.png)
+# Українізатор Arx Fatalis (Arx Libertatis)
 
-###### Це переклад гри Arx Fatalis українською мовою з використанням машинного перекладу (ChatGPT).
+![Статус проекту](https://img.shields.io/badge/Статус-В_розробці-orange?style=flat-square)
+[![Платформа LBK](https://img.shields.io/badge/Платформа-LBK_Launcher-blue?style=flat-square)](https://lbklauncher.com)
+![GitHub Pull Requests](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)
+![Відкриті Issues](https://img.shields.io/github/issues/EYELESS-UA/Arx-Fatalis-Ukrainian-Localization?style=flat-square)
+![Останній коміт](https://img.shields.io/github/last-commit/EYELESS-UA/Arx-Fatalis-Ukrainian-Localization?style=flat-square)
 
-> **Увага!**  
-> Для встановлення української мови вам потрібно встановити модифікований рушій [Arx Libertatis](https://arx-libertatis.org).
+Публічний репозиторій для розробки та адаптації української локалізації для класичної RPG **Arx Fatalis** (оригінальна гра) та її сучасного відкритого рушія **Arx Libertatis**. Мета проекту — передати густу, похмуру атмосферу підземного світу Арксу без втрати автентичності та лору.
 
-## Встановлення
-1. Завантажте та встановіть Arx Libertatis.  
-2. Завантажте [архів](https://github.com/EYELESS-UA/Arx-Libertatis-Ukrainian-localization/releases/tag/v1.0.0) з українською мовою.
-3. Розархівуйте архів у теку з Arx Libertatis.
-4. Відкрийте гру та оберіть мову.
+---
 
-[![alt](https://github.com/EYELESS-UA/EYELESS-UA/blob/main/assets/img/donatello_300x50.png?raw=true)](https://donatello.to/LGamesStudio)
+## 🚀 Як встановити переклад
+
+### Варіант 1: Через LBK Launcher (Рекомендовано) 🌟
+Найпростіший спосіб для гравців. Лаунчер автоматично розгорне переклад у потрібну директорію рушія.
+1. Завантажте та встановіть лаунчер: [lbklauncher.com](https://lbklauncher.com).
+2. Знайдіть **Arx Fatalis / Arx Libertatis** у списку ігор.
+3. Натисніть кнопку **«Встановити»** навпроти української локалізації.
+
+### Варіант 2: Встановлення вручну для Arx Libertatis (З файлів GitHub) ⚙️
+Сучасний рушій `Arx Libertatis` дуже зручно підтримує користувацькі модифікації через окрему папку користувача.
+1. Перейдіть у розділ **[Releases](посилання)** та завантажте актуальний архів.
+2. Розпакуйте вміст папки `build` (папку `graph` та інші локалізаційні файли) за шляхом:
+   * **Windows:** `💾 %USERPROFILE%\Saved Games\Arx Libertatis\mods\ukrainian\` (або в корінь папки з грою, якщо граєте без рушія).
+3. У налаштуваннях гри виберіть українську мову.
+
+---
+
+## 📂 Структура проекту
+
+* `src/source/` — оригінальні англійські текстові скрипти гри (використовуються як зразок). **Не редагувати!**
+* `src/translation/` — робочі файли, де ведеться переклад та редактура діалогів, оновлених шрифтів та інтерфейсу.
+* `build/` — готова до гри збірка локалізації.
+
+---
+
+## 🤝 Як долучитися до розробки
+
+Текст в Arx Fatalis зберігається у специфічних скриптових файлах. Ми раді будь-якій допомозі з перекладом діалогів, опису предметів та магічних рун.
+
+1. Зробіть **Fork** цього репозиторію.
+2. Редагуйте файли виключно у папці `src/translation/`.
+3. Створіть **Pull Request** (PR) із детальним описом змін.
+
+> ⚠️ **Важливо:** Зберігайте оригінальні технічні маркери, колірні теги та символи переносу рядків у діалогових скриптах, щоб текст не ламався безпосередньо у грі.
+
+Якщо ви знайшли одрук, технічний баг або тексту немає в інтерфейсі — створіть **[Issue](https://github.com/EYELESS-UA/Arx-Fatalis-Ukrainian-Localization/issues)** із додаванням скріншоту.
+
+---
+
+## 📖 Глосарій (Стартовий шаблон)
+
+Для збереження похмурої атмосфери Arx Fatalis, ми використовуємо специфічну термінологію. Пропозиції щодо покращення назв та імен приймаються в Issues.
+
+| Англійський термін | Український варіант | Примітка / Контекст |
+| :--- | :--- | :--- |
+| **Arx** | Аркс | Назва підземного міста / світу |
+| **Ylside** | Ілсид | Назва ворожого ордену лицарів |
+| **Rat-men** | Щуролюди | Раса підземних жителів |
+| **Rune (Aam, Yok, etc.)** | Руна (Аам, Йок і т.д.) | Магічні знаки для малювання заклять |
+| **Kraken** | Кракен | Істота / монстр у підземеллях |
+| **Akbaa** | Акбаа | Головний антагоніст / бог руйнування |
+
+---
+
+## 📈 Статус розробки
+
+* **Інтерфейс, меню та книги магії:** ![0%](https://img.shields.io/badge/0%25-red?style=flat-square)
+* **Діалоги та сюжетні квести (Main Quest):** ![0%](https://img.shields.io/badge/0%25-red?style=flat-square)
+* **Побічні завдання та щоденник:** ![0%](https://img.shields.io/badge/0%25-red?style=flat-square)
+* **Описи предметів, зброї та їжі:** ![0%](https://img.shields.io/badge/0%25-red?style=flat-square)
+
+---
+**Автор проекту:** [EYELESS-UA](https://github.com/EYELESS-UA)  
+*Проект розробляється за підтримки платформи українських локалізацій LBK Launcher.*
